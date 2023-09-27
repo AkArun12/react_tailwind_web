@@ -3,7 +3,7 @@ import React from 'react'
 export default function Navbar() {
   return (
     <>
-      <nav className="w-full h-14 bg-indigo-200 flex justify-between px-4 md:px-6 items-center">
+      <nav className="w-full h-14 bg-indigo-200 flex justify-between px-4 md:px-6 items-center sticky top-0 ">
         <div className="text-2xl text-indigo-700 font-bold">Code_With_Us</div>
         <ul className="md:flex hidden font-semibold">
           <li className="mx-[10px] cursor-pointer">Home</li>

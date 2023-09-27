@@ -3,7 +3,7 @@ import React from 'react'
 function Footersection() {
   return (
     <>
-      <footer className="w-full bg-gray-900 px-4 text-white pt-8  flex flex-col  md:flex-row flex-wrap justify-between md:px-12">
+      <footer className="w-full bg-gray-900 px-4 text-white pt-5  flex flex-col  md:flex-row flex-wrap justify-between md:px-12 md:sticky bottom-0 ">
         <div>
           <h1 className="text-3xl font-bold ">Code_With_Us</h1>
           <p className="mt-2">
@@ -13,8 +13,7 @@ function Footersection() {
           <p>
             Address:
             <br />
-            <p>Ulsan Namgu, Mugeo-dong</p>
-            대학로21번길11 , 무거동, 울산
+            <p>Ulsan Namgu, Mugeo-dong,dahek-ro-21</p>
           </p>
         </div>
 
