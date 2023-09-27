@@ -14,17 +14,17 @@ function Studentsection() {
 
       <div className="w-46 flex flex-col items-center mb-12">
         <img className="w-16 h-16" src="https://pwskills.com/images/homePage/statistics2.png" alt="" />
-        <p className="text-3xl font-bold text-white">600+</p>
+        <p className="text-2xl font-bold text-black">600+</p>
         <p className="text-2xl font-bold text-gray-500">Different Courses</p>
       </div>
       <div className="w-46 flex flex-col items-center mb-12">
         <img className="w-16 h-16" src="https://pwskills.com/images/homePage/statistics1.png" alt="" />
-        <p className="text-3xl font-bold text-white">55%</p>
+        <p className="text-2xl font-bold text-black">55%</p>
         <p className="text-2xl font-bold text-gray-500">Average Salary Hike</p>
       </div>
       <div className="w-46 flex flex-col items-center mb-12">
         <img className="w-16 h-16" src="https://pwskills.com/images/homePage/statistics3.png" alt="" />
-        <p className="text-3xl font-bold text-white">400+</p>
+        <p className="text-2xl font-bold text-black">400+</p>
         <p className="text-2xl font-bold text-gray-500">Hiring Partners</p>
       </div>
 
